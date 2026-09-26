@@ -9,8 +9,6 @@ boton.addEventListener ("click", function (){
         const tarea = document.createElement("li"); 
     
          tarea.textContent = input.value;
-
-        //  const eliminar = document.createElement("li");
          
          const eliminar = document.createElement("button");
 
