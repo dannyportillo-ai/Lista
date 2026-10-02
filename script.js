@@ -6,7 +6,7 @@ boton.addEventListener ("click", function (){
 
     if (input.value !=="") {
 
-        const tarea = document.createElement("li"); 
+        const tarea = document.createElement("ol"); 
     
          tarea.textContent = input.value;
          
